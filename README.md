@@ -1,6 +1,6 @@
 
 #  Java 11 New Features
-#### Java is one of the most popular including in programming languages in the world. Java has enhanced since its introduction in 1995. It takes a slightly longer work to keep up with the latest versions frequent social media release cycle in recent years.
+Java is one of the most popular including in programming languages in the world. Java has enhanced since its introduction in 1995. It takes a slightly longer work to keep up with the latest versions frequent social media release cycle in recent years.
 We'll begin by discussing the changes in Java 11.
 Let's get started.
 
